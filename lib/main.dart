@@ -3,7 +3,6 @@ import 'package:iti_mu/gate.dart';
 
 import 'furniture.dart';
 import 'student_gate.dart';
-//
 void main() {
   runApp(const MyApp());
 }
